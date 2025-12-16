@@ -2,12 +2,26 @@
   "location": "Crater",
   "event": "Minerva (List 18)",
   "list": 18,
-  "from": "",
-  "to": "",
-  "itemCount": 1,
+  "from": "Mo, 15th Dec 2025(12:00)",
+  "to": "We, 17th Dec 2025 (12:00)",
+  "itemCount": 15,
   "items": [
-    "Plan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Sole Survivor1333 Gold Plan: Grocer's Backpack Mod263 Gold Plan: X-01 Scorched Paint1500 Gold"
+    "Plan: Dynamite75 Gold",
+    "Plan: Gauss pistol188 Gold",
+    "Plan: Floater gnasher grenade113 Gold",
+    "Plan: Resistant lining Secret Service underarmor75 Gold",
+    "Plan: Scavenged solar panel1500 Gold",
+    "Plan: Strangler heart chest piece938 Gold",
+    "Plan: Strangler heart helmet1238 Gold",
+    "Plan: Strangler heart left arm750 Gold",
+    "Plan: Strangler heart left leg750 Gold",
+    "Plan: Strangler heart right arm750 Gold",
+    "Plan: Strangler heart right leg750 Gold",
+    "Plan: Treated lining Secret Service underarmor38 Gold",
+    "Plan: Sole Survivor1333 Gold",
+    "Plan: Grocer's Backpack Mod263 Gold",
+    "Plan: X-01 Scorched Paint1500 Gold"
   ],
   "source": "nukaknights.com",
-  "lastUpdated": "2025-12-16T20:10:03.153Z"
+  "lastUpdated": "2025-12-16T20:40:01.200Z"
 }
