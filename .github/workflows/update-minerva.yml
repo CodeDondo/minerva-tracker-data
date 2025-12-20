@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"   # hver 6. time
   workflow_dispatch:
 
+permissions:
+  contents: write  # allow pushing minerva.json updates
+
 jobs:
   update:
     runs-on: ubuntu-latest
