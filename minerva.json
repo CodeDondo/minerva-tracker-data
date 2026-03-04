@@ -1,24 +1,11 @@
 {
-  "location": "Fort Atlas",
-  "event": "Minerva (List 3)",
-  "list": 3,
-  "from": "Mo, 2nd Mar 2026(12:00)",
-  "to": "We, 4th Mar 2026 (12:00)",
-  "itemCount": 12,
-  "items": [
-    "Plan: Chinese stealth armor 3000 Gold",
-    "Plan: Chinese stealth helmet 1238 Gold",
-    "Plan: Gauntlet 188 Gold",
-    "Plan: Secret Service jet pack armor 1500 Gold",
-    "Plan: Secret Service pocketed armor limb 188 Gold",
-    "Plan: Secret Service pocketed armor torso 188 Gold",
-    "Plan: T-65 medic pump 188 Gold",
-    "Plan: T-65 overdrive servos 563 Gold",
-    "Plan: T-65 Stealth Boy 563 Gold",
-    "Plan: War glaive cryo blade 150 Gold",
-    "Plan: War glaive plasma blade 150 Gold",
-    "Plan: Chicken coop 563 Gold"
-  ],
+  "location": "Whitespring",
+  "event": "Minerva`s Big Sale and Caps-A-Plenty",
+  "list": null,
+  "from": "Th, 12th Mar 2026(13:00)",
+  "to": "Mo, 16th Mar 2026 (13:00)",
+  "itemCount": 0,
+  "items": [],
   "source": "nukaknights.com",
-  "lastUpdated": "2026-03-04T12:26:24.259Z"
+  "lastUpdated": "2026-03-04T18:29:30.484Z"
 }
