@@ -1,11 +1,23 @@
 {
-  "location": "Whitespring",
-  "event": "Minerva`s Big Sale and Caps-A-Plenty",
-  "list": null,
-  "from": "Th, 12th Mar 2026(12:00)",
-  "to": "Mo, 16th Mar 2026 (12:00)",
-  "itemCount": 0,
-  "items": [],
+  "location": "Foundation",
+  "event": "Minerva (List 5)",
+  "list": 5,
+  "from": "Mo, 23rd Mar 2026(12:00)",
+  "to": "We, 25th Mar 2026 (12:00)",
+  "itemCount": 11,
+  "items": [
+    "Plan: Gauss minigun 563 Gold",
+    "Plan: Gauss pistol aligned short barrel 113 Gold",
+    "Plan: Gauss Pistol Drum Magazine 75 Gold",
+    "Plan: Gauss pistol refined receiver 150 Gold",
+    "Plan: Protective lining Secret Service underarmor 113 Gold",
+    "Plan: Shielded lining Secret Service underarmor 150 Gold",
+    "Plan: Thorn armor chest piece 750 Gold",
+    "Plan: Thorn armor left arm 563 Gold",
+    "Plan: Thorn armor left leg 563 Gold",
+    "Plan: Thorn armor right arm 563 Gold",
+    "Plan: Thorn armor right leg 563 Gold"
+  ],
   "source": "nukaknights.com",
-  "lastUpdated": "2026-03-16T12:38:21.294Z"
+  "lastUpdated": "2026-03-16T18:42:08.527Z"
 }
