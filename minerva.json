@@ -4,20 +4,8 @@
   "list": 5,
   "from": "Mo, 23rd Mar 2026(12:00)",
   "to": "We, 25th Mar 2026 (12:00)",
-  "itemCount": 11,
-  "items": [
-    "Plan: Gauss minigun 563 Gold",
-    "Plan: Gauss pistol aligned short barrel 113 Gold",
-    "Plan: Gauss Pistol Drum Magazine 75 Gold",
-    "Plan: Gauss pistol refined receiver 150 Gold",
-    "Plan: Protective lining Secret Service underarmor 113 Gold",
-    "Plan: Shielded lining Secret Service underarmor 150 Gold",
-    "Plan: Thorn armor chest piece 750 Gold",
-    "Plan: Thorn armor left arm 563 Gold",
-    "Plan: Thorn armor left leg 563 Gold",
-    "Plan: Thorn armor right arm 563 Gold",
-    "Plan: Thorn armor right leg 563 Gold"
-  ],
+  "itemCount": 0,
+  "items": [],
   "source": "nukaknights.com",
-  "lastUpdated": "2026-03-17T06:45:43.569Z"
+  "lastUpdated": "2026-03-17T12:36:36.517Z"
 }
