@@ -1,11 +1,11 @@
 {
-  "location": "Foundation",
-  "event": "Minerva (List 1)",
-  "list": 1,
-  "from": "Mo, 14th Sep 2026(12:00)",
-  "to": "We, 16th Sep 2026 (12:00)",
+  "location": "Crater",
+  "event": "Minerva (List 2)",
+  "list": 2,
+  "from": "Mo, 21st Sep 2026(12:00)",
+  "to": "We, 23rd Sep 2026 (12:00)",
   "itemCount": 0,
   "items": [],
   "source": "nukaknights.com",
-  "lastUpdated": "2026-09-16T15:35:29.399Z"
+  "lastUpdated": "2026-09-16T20:27:58.704Z"
 }
