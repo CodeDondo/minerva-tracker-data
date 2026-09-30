@@ -1,11 +1,11 @@
 {
-  "location": "Fort Atlas",
-  "event": "Minerva (List 3)",
-  "list": 3,
-  "from": "Mo, 28th Sep 2026(12:00)",
-  "to": "We, 30th Sep 2026 (12:00)",
+  "location": "Whitespring",
+  "event": "Minerva`s Big Sale (List 4) and Gold Rush",
+  "list": 4,
+  "from": "Th, 8th Oct 2026(12:00)",
+  "to": "Mo, 12th Oct 2026 (12:00)",
   "itemCount": 0,
   "items": [],
   "source": "nukaknights.com",
-  "lastUpdated": "2026-09-30T11:24:35.430Z"
+  "lastUpdated": "2026-09-30T17:00:59.209Z"
 }
