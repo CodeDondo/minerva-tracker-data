@@ -1,11 +1,11 @@
 {
-  "location": "Whitespring",
-  "event": "Minerva`s Big Sale (List 4) and Gold Rush",
-  "list": 4,
-  "from": "Th, 8th Oct 2026(12:00)",
-  "to": "Mo, 12th Oct 2026 (12:00)",
+  "location": "Foundation",
+  "event": "Minerva (List 5)",
+  "list": 5,
+  "from": "Mo, 19th Oct 2026(12:00)",
+  "to": "We, 21st Oct 2026 (12:00)",
   "itemCount": 0,
   "items": [],
   "source": "nukaknights.com",
-  "lastUpdated": "2026-10-12T13:34:53.838Z"
+  "lastUpdated": "2026-10-12T23:50:19.617Z"
 }
